@@ -1,4 +1,4 @@
 # Whatsapp
 
-## WhatsApp is stuck on "Ogenazing Messages"
-## Solution : Diconnect from VPN and try to connect again 
+### WhatsApp is stuck on "Orgenazing Messages"
+### Solution : Disconnect from VPN and try to connect again 
